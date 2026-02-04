@@ -10,13 +10,6 @@ This repository is published for **preview and demonstration purposes only**.
 
 ---
 
-## 🌐 Live Website Preview
-👉 https://hamdahkhalid.github.io/Luv-ra-Beauty
-
-Explore the design, layout, and overall look & feel of the project through the live preview above.
-
----
-
 ## ✨ What This Project Includes
 - Elegant beauty brand design
 - Clean and modern UI
@@ -25,12 +18,17 @@ Explore the design, layout, and overall look & feel of the project through the l
 
 📸 **Screenshots**
 A quick visual overview of the LUVERA BEAUTY website design.
-![LUVERA Beauty – Home Page](screenshots/home.png)
-![LUVERA Beauty – Home Page](screenshots/home/products.png)
-![LUVERA Beauty – Home Page](screenshots/home/products2.png)
-![LUVERA Beauty – Lipsticks Page](screenshots/lipsticks/page.png)
-![LUVERA Beauty – Lipsticks Products](screenshots/lipsticks/products.png)
-![LUVERA Beauty – Mobile View](screenshots/mobile.png)
+--![LUVERA Beauty – Home Page](screenshots/home.png)
+
+--![LUVERA Beauty – Home Page](screenshots/home/products.png)
+
+--![LUVERA Beauty – Home Page](screenshots/home/products2.png)
+
+--![LUVERA Beauty – Lipsticks Page](screenshots/lipsticks/page.png)
+
+--![LUVERA Beauty – Lipsticks Products](screenshots/lipsticks/products.png)
+
+--![LUVERA Beauty – Mobile View](screenshots/mobile.png)
 
 ---
 
